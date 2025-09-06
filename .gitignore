@@ -3,6 +3,12 @@ target/
 .mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
 !**/src/test/**/target/
+.gitattributes
+.gitignore
+mvnw
+mvnw.cmd
+.mvn/
+.idea/
 
 ### STS ###
 .apt_generated
