@@ -1,10 +1,10 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%><!DOCTYPE html><html><head><meta charset="UTF-8">
-    <title>JSP 33</title>
+    <title>JSP 4444</title>
 </head>
 <body>
-    <h1>Welcome to test JSP 33</h1>
+    <h1>Welcome to test JSP 4444</h1>
 
-    <form action="/add3" method="post" >
+    <form action="/add_num_4_act" method="post" >
 	
         <br/><br/><label for="num1">Enter your num1:</label>
         <input type="text" name="num1" id="num1" required>
